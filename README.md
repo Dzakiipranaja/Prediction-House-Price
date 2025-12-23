@@ -1,4 +1,5 @@
 Property Price Prediction
+
 This project is a simple tool to predict house prices in the Dumbo area using Linear Regression. It shows how the size of a house (in square feet) affects its selling price.
 
 📊 Project Overview
